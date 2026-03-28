@@ -6,4 +6,7 @@ public class CarBooking {
 	String name;
 	 int roll_no;
 
+
+	int c=30 //added from github
+
 }
